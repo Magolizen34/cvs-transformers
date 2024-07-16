@@ -1,0 +1,2 @@
+ - Nos modelos de NN que tenham mais que 2 features, aplicar PCA de 2 e fazer o plot.
+ - A mesma coisa para o modelo baseline.
