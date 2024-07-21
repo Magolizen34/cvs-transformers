@@ -1,2 +1,19 @@
- - Nos modelos de NN que tenham mais que 2 features, aplicar PCA de 2 e fazer o plot.
+ - Adiconar referências à introdução das leads e opportunities.
+ - Adicionar um diagrama às leads e opportunities.
+ - Adicionar referência ao SIC Code.
+ - Escrever discussão de resultados.
+ - Refazer modelo do FT-Transformer.
+ - Adicionar arquitetura à parte do FT-Transformer.
+ - Nos modelos de NN que tenham mais que 2 features, aplicar PCA de 2 antes do KMeans e fazer o plot.
  - A mesma coisa para o modelo baseline.
+
+
+
+
+
+
+ Future Works:
+  - Aplicar entity embeddings para as variáveis categoricas antes do FT-Transformer;
+  - Aplicar outros algoritmos de clustering tal como HC e DBSCAN;
+  - Fazer Hyperparameter tuning usando metodos de otimizacao como Grid Search e Cross-Validation, ou até mesmo librarias como optuna;
+   
