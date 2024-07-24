@@ -4,13 +4,12 @@
  - Adiconar referências à introdução das leads e opportunities.
  - Adicionar um diagrama às leads e opportunities.
  - Adicionar referência ao SIC Code.
+ - Adicionar PCA no capitulo Background.
  - Escrever discussão de resultados.
-
 
  #######################################
  - Modeling
  #######################################
- - Adicionar código do latex aos restantes modelos.
  - Refazer modelo do FT-Transformer.
  - Adicionar arquitetura à parte do FT-Transformer.
 
