@@ -10,8 +10,9 @@
  #######################################
  - Modeling
  #######################################
- - Refazer modelo do FT-Transformer.
+ - Terminar FT-Transformer original dataset.
  - Adicionar arquitetura à parte do FT-Transformer.
+
 
 
  #######################################
