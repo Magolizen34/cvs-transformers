@@ -11,7 +11,6 @@
  - Modeling
  #######################################
  - Adicionar código do latex aos restantes modelos.
- - Finalizar original_dec_model.
  - Refazer modelo do FT-Transformer.
  - Adicionar arquitetura à parte do FT-Transformer.
 
