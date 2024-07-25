@@ -3,7 +3,6 @@
  #######################################
  - Adiconar referências à introdução das leads e opportunities.
  - Adicionar um diagrama às leads e opportunities.
- - Adicionar referência ao SIC Code.
  - Adicionar PCA no capitulo Background.
  - Escrever discussão de resultados.
 
@@ -11,7 +10,6 @@
  - Modeling
  #######################################
  - Terminar FT-Transformer original dataset.
- - Adicionar arquitetura à parte do FT-Transformer.
 
 
 
@@ -24,3 +22,9 @@
   ou até mesmo librarias como optuna;
 - Tentar adicionar uma Embedding layer ao model AE Embedding de forma a perceber se, para o dataset original, 
   os resultados melhoram, em vez de incluir diretamente na MLP;
+
+
+ #######################################
+ - LEAVE TO THE END
+ #######################################
+ - Adicionar referência ao SIC Code.
